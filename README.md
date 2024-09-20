@@ -20,5 +20,6 @@
 - **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
 - **Version Control**: [Git](https://git-scm.com/downloads)
 - **Git Extension**: [Git Extensions](https://gitextensions.github.io/)
-- **Next.js Setup**: [Next.js Documentation](https://nextjs.org/docs/getting-started)
 - **Python Setup**: [Python.org](https://www.python.org/downloads/)
+- **Node.js Installation**: [Node.js Download](https://nodejs.org/en/download/)
+    - *Note*: Please install **Node.js v18.8 or higher** for compatibility with modern tools and frameworks.
