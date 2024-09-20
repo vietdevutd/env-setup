@@ -1,5 +1,5 @@
-# Definition of Done (DoD) for a Small Software Development Team
-
+# Team Agreement
+# Defination of done
 1. **Code Complete**: All features and functionalities outlined in the user story are fully implemented.
 2. **Testing**:
    - Unit tests are written and pass with high coverage.
