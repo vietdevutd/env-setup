@@ -23,3 +23,6 @@
 - **Python Setup**: [Python.org](https://www.python.org/downloads/)
 - **Node.js Installation**: [Node.js Download](https://nodejs.org/en/download/)
     - *Note*: Please install **Node.js v18.8 or higher** for compatibility with modern tools and frameworks.
+ 
+# Agile Boards
+**Jobify**: https://khiem.youtrack.cloud/projects/567784ec-cc31-4247-82e0-64d3abd55092
