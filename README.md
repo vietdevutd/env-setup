@@ -19,10 +19,13 @@
 
 - **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
 - **Version Control**: [Git](https://git-scm.com/downloads)
-- **Git Extension**: [Git Extensions](https://gitextensions.github.io/)
+- **Git Extension**: [Git Extensions](https://gitextensions.github.io/), [Github Desktop](https://desktop.github.com/download/)
 - **Python Setup**: [Python.org](https://www.python.org/downloads/)
 - **Node.js Installation**: [Node.js Download](https://nodejs.org/en/download/)
     - *Note*: Please install **Node.js v18.8 or higher** for compatibility with modern tools and frameworks.
+ 
+- **Ollma Installation**: [Download](https://ollama.com/)
+- **AnythingLLM Installation**: [Download](https://anythingllm.com/download)
 # Project
 **Jobify**: 
 
