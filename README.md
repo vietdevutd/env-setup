@@ -26,6 +26,6 @@
 # Project
 **Jobify**: 
 
-[Scrum board](https://khiem.youtrack.cloud/projects/567784ec-cc31-4247-82e0-64d3abd55092)
+[Scrum board](https://khiem.youtrack.cloud/agiles/147-4/current)
 
 [Git Repo](https://github.com/vietdevutd/jobify.git)
