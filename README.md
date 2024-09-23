@@ -32,3 +32,6 @@
 [Scrum board](https://khiem.youtrack.cloud/agiles/147-4/current)
 
 [Git Repo](https://github.com/vietdevutd/jobify.git)
+
+# Import Models into Ollama:
+https://github.com/ollama/ollama/blob/main/docs/import.md
